@@ -1,0 +1,32 @@
+Bibliografia utilizada para el Challenge:
+
+https://www.youtube.com/watch?v=JZ0TMkwMgp8
+
+https://www.youtube.com/@freecodecamp/search?query=api%20drive
+
+https://www.youtube.com/watch?v=9K2P2bWEd90&list=PL3JVwFmb_BnTamTxXbmlwpspYdpmaHdbz
+
+https://www.youtube.com/watch?v=ZI4XjwbpEwU&t=677s
+
+https://www.youtube.com/watch?v=tamT_iGoZDQ
+
+https://www.youtube.com/watch?v=G_4KUbuwtlM
+
+https://www.youtube.com/watch?v=lVtu-JWmHOo
+
+
+
+
+https://console.cloud.google.com/welcome/new?hl=es
+
+https://console.cloud.google.com/projectselector2/apis/dashboard?hl=es&supportedpurview=project
+
+https://chat.openai.com/
+
+https://developers.google.com/drive/api/quickstart/python?hl=es-419
+
+https://www.geeksforgeeks.org/how-to-encrypt-and-decrypt-strings-in-python/
+
+https://www.youtube.com/watch?v=1UtkZHHOBWo
+
+Entre otras...
